@@ -13,6 +13,8 @@
 > aprimoramento de quem já faz parte da comunidade, serão temas específicos e variados todos voltados para o PHP.
 >
 > O material de estudo é apenas disponibilizado, fica a critério de quem vai utilizar escolher o melhor material ou melhor didática. 
+>
+> As contribuições serão bem-vindas.
 <hr/>
 
 ## Documentação oficial
