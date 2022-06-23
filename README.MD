@@ -18,18 +18,22 @@
 <hr/>
 
 ## Documentação oficial
-
 - Acesse a documentação oficial do PHP: <https://www.php.net/manual/pt_BR/index.php>
 
 
 ## w3schools
-
 - Acesse uma documentação auxiliar do PHP: <https://www.w3schools.com/php/default.asp>
 - Exercícios PHP: <https://www.w3schools.com/php/php_exercises.asp>
 
     
 ## PHP do jeito certo
 - Site que disponibiliza as melhores práticas do mercado: <http://br.phptherightway.com/>
+
+
+## PHP-FIG
+- Site que disponibiliza os padrôes de desenvolvimento PHP: <https://www.php-fig.org/>
+
+
 
 <hr/>
 
