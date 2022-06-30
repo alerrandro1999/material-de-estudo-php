@@ -33,6 +33,9 @@
 ## PHP-FIG
 - Site que disponibiliza os padrôes de desenvolvimento PHP: <https://www.php-fig.org/>
 
+## THE PHP FOUNDATION
+- A PHP Foundation é um coletivo estabelecido com a missão sem fins lucrativos de apoiar, avançar e desenvolver a linguagem PHP: <https://thephp.foundation/>
+
 
 
 <hr/>
