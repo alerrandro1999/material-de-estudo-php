@@ -42,9 +42,60 @@
 - O PHPUnit é um framework de teste de unidade para a linguagem de programação PHP: <https://phpunit.de/>
 
 
-<hr/>
+## Composer
+- Um gerenciador de dependências para PHP: <https://getcomposer.org/>
 
-## Canais do Youtube
+
+## Packagist
+- Packagist é o repositório principal do Composer. Ele agrega pacotes PHP públicos instaláveis ​​com o Composer: <https://packagist.org/>
+
+<br/>
+
+# Frameworks
+
+## Laravel
+- Laravel é um framework de aplicação web com sintaxe expressiva e elegante: <https://laravel.com/>
+
+
+## Symfony
+- Symfony é um conjunto de componentes PHP reutilizáveis ​​e um framework PHP para construir aplicações web, APIs, microsserviços e serviços web: <https://symfony.com/>
+
+
+## CodeIgniter 
+- CodeIgniter é um poderoso framework PHP com uma pegada muito pequena, construído para desenvolvedores que precisam de um kit de ferramentas simples e elegante para criar aplicativos web completos: <https://www.codeigniter.com/>
+
+
+## Zend Framework / Laminas Project
+- O Zend Framework é um robusto Framework para o desenvolvimento de aplicações PHP: <https://framework.zend.com/>
+
+
+## CakePHP
+- O CakePHP é uma estrutura de desenvolvimento rápido da Web de código aberto que torna a criação de aplicativos da Web mais simples, rápida e requer menos código: <https://cakephp.org/>
+
+
+## Slim Framework
+- Slim é um micro framework PHP que ajuda você a escrever rapidamente aplicativos e APIs da Web simples e poderosos: <https://www.slimframework.com/>
+
+
+## Phalcon Framework
+- Sua arquitetura inovadora faz do Phalcon o framework PHP mais rápido já construído: <https://phalcon.io/pt-br>
+
+
+## FuelPHP
+- FuelPHP é um framework MVC (Model-View-Controller) que foi projetado desde o início para ter suporte total para HMVC como parte de sua arquitetura: <https://fuelphp.com/>
+
+
+## Fat-Free Framework
+- Um micro-framework PHP poderoso, mas fácil de usar, projetado para ajudá-lo a criar aplicativos da Web dinâmicos e robustos - rápido: <https://fatfreeframework.com/3.8/home>
+
+
+## Yii PHP Framework
+- Yii é um framework PHP rápido, seguro e eficiente . Flexível, mas pragmático: <https://www.yiiframework.com/>
+
+
+<br/>
+
+# Canais do Youtube
 Os canais listados são os que tem em sua maioria conteúdos realcionados ao PHP.
 - Canal WDEV: <https://www.youtube.com/c/WDEVoficial>
 
