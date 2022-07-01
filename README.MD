@@ -17,30 +17,34 @@
 > As contribuições serão bem-vindas.
 <hr/>
 
-## Documentação oficial
+## Documentação Oficial
 - Acesse a documentação oficial do PHP: <https://www.php.net/manual/pt_BR/index.php>
 
 
-## w3schools
+## W3schools
 - Acesse uma documentação auxiliar do PHP: <https://www.w3schools.com/php/default.asp>
 - Exercícios PHP: <https://www.w3schools.com/php/php_exercises.asp>
 
     
-## PHP do jeito certo
+## PHP do jeito ceto
 - Site que disponibiliza as melhores práticas do mercado: <http://br.phptherightway.com/>
 
 
 ## PHP-FIG
 - Site que disponibiliza os padrôes de desenvolvimento PHP: <https://www.php-fig.org/>
 
-## THE PHP FOUNDATION
+
+## The PHP Foundation
 - A PHP Foundation é um coletivo estabelecido com a missão sem fins lucrativos de apoiar, avançar e desenvolver a linguagem PHP: <https://thephp.foundation/>
 
+
+## PHPUnit
+- O PHPUnit é um framework de teste de unidade para a linguagem de programação PHP: <https://phpunit.de/>
 
 
 <hr/>
 
-# Canais do Youtube
+## Canais do Youtube
 Os canais listados são os que tem em sua maioria conteúdos realcionados ao PHP.
 - Canal WDEV: <https://www.youtube.com/c/WDEVoficial>
 
@@ -54,7 +58,7 @@ Os canais listados são os que tem em sua maioria conteúdos realcionados ao PHP
 
 - Canal Code Experts <https://www.youtube.com/c/Codeexpertslearning/featured>
 
-# Playlists do Youtube
+## Playlists do Youtube
 As playlists listadas são de conteúdos especificos PHP, de canais que não abordam em sua maioria o PHP.
 
 - Playlist de curso PHP | Programação Web <https://www.youtube.com/watch?v=bGUuPgEn4U4&list=PL2Fdisxwzt_cOvOTUJhwEOxNV59wTs3ac>
