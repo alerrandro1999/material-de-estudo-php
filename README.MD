@@ -30,6 +30,10 @@
 - Site que disponibiliza as melhores práticas do mercado: <http://br.phptherightway.com/>
 
 
+## DesignPatternsPHP
+- Padrões de projeto (design patterns) aplicados com PHP : <https://designpatternsphp.readthedocs.io/pt_BR/latest/README.html>
+
+
 ## PHP-FIG
 - Site que disponibiliza os padrôes de desenvolvimento PHP: <https://www.php-fig.org/>
 
