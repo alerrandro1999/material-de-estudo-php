@@ -53,7 +53,9 @@
 ## Packagist
 - Packagist é o repositório principal do Composer. Ele agrega pacotes PHP públicos instaláveis ​​com o Composer: <https://packagist.org/>
 
-<br/>
+## PHPDocker
+- Site que gerar containers personalizados do docker para PHP: <http://phpdocker.io/>
+
 
 # Frameworks
 
