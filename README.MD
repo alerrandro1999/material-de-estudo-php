@@ -53,6 +53,7 @@
 ## Packagist
 - Packagist é o repositório principal do Composer. Ele agrega pacotes PHP públicos instaláveis ​​com o Composer: <https://packagist.org/>
 
+
 ## PHPDocker
 - Site que gerar containers personalizados do docker para PHP: <http://phpdocker.io/>
 
@@ -102,18 +103,21 @@
 <br/>
 
 # Canais do Youtube
-Os canais listados são os que tem em sua maioria conteúdos realcionados ao PHP.
-- Canal WDEV: <https://www.youtube.com/c/WDEVoficial>
+Os canais listados são os que tem em sua maioria conteúdos realcionados ao PHP e Frameworks. 
+- Canal WDEV: <https://www.youtube.com/c/WDEVoficial/featured>
 
-- Canal Beer and Code: <https://www.youtube.com/c/BeerandCode> 
+- Canal Beer and Code: <https://www.youtube.com/c/BeerandCode/featured> 
 
-- Canal Code Easy <https://www.youtube.com/c/CodeEasy/videos>
+- Canal Code Easy <https://www.youtube.com/c/CodeEasy/featured>
 
 - Canal Rafael Capoani <https://www.youtube.com/c/RafaelCapoani/featured>
 
 - Canal dias de Dev <https://www.youtube.com/c/DiasdeDev/featured>
 
 - Canal Code Experts <https://www.youtube.com/c/Codeexpertslearning/featured>
+
+- Hard Coding - por Matheus Dal'Pizzol <https://www.youtube.com/c/MatheusDalPizzol/featured>
+
 
 ## Playlists do Youtube
 As playlists listadas são de conteúdos especificos PHP, de canais que não abordam em sua maioria o PHP.
