@@ -125,12 +125,14 @@ Os canais listados são os que tem em sua maioria conteúdos realcionados ao PHP
 ## Playlists do Youtube
 As playlists listadas são de conteúdos especificos PHP, de canais que não abordam em sua maioria o PHP.
 
-- Playlist de curso PHP | Programação Web <https://www.youtube.com/watch?v=bGUuPgEn4U4&list=PL2Fdisxwzt_cOvOTUJhwEOxNV59wTs3ac>
+- Playlist de curso PHP | Programação Web: <https://www.youtube.com/watch?v=bGUuPgEn4U4&list=PL2Fdisxwzt_cOvOTUJhwEOxNV59wTs3ac>
 
-- Playlist de curso PHP | Node Studio Treinamentos <https://www.youtube.com/watch?v=XwpsxPmQN2E&list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq>
+- Playlist de curso PHP | Node Studio Treinamentos: <https://www.youtube.com/watch?v=XwpsxPmQN2E&list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq>
 
-- Playlist de curso PHP Orientado a Objetos | Node Studio Treinamentos <https://www.youtube.com/watch?v=hzy_P_H-1CQ&list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I>
+- Playlist de curso PHP Orientado a Objetos | Node Studio Treinamentos: <https://www.youtube.com/watch?v=hzy_P_H-1CQ&list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I>
 
-- Playlist PHP TIPS | Robson V. Leite <https://www.youtube.com/watch?v=Zl1ZgfM9rSQ&list=PLi_gvjv-JgXqsmCAOrueT1-4JrnMW8_Gg>
+- Playlist PHP TIPS | Robson V. Leite: <https://www.youtube.com/watch?v=Zl1ZgfM9rSQ&list=PLi_gvjv-JgXqsmCAOrueT1-4JrnMW8_Gg>
 
-- Playlist curso PHP | João Ribeiro <https://www.youtube.com/watch?v=jVUeF7cZdFE&list=PLXik_5Br-zO9wODVI0j58VuZXkITMf7gZ&index=1>
+- Playlist curso PHP | João Ribeiro: <https://www.youtube.com/watch?v=jVUeF7cZdFE&list=PLXik_5Br-zO9wODVI0j58VuZXkITMf7gZ&index=1>
+
+- Playlist Symfony | Rafael Wendel Pinheiro: <https://www.youtube.com/watch?v=ADNnvufL1_8&list=PLwQkYMetu0ObX4r0DkaRcZpm9-5E2RGSb>
