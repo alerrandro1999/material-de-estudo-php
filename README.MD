@@ -116,11 +116,11 @@ Os canais listados são os que tem em sua maioria conteúdos realcionados ao PHP
 
 - Canal Code Experts: <https://www.youtube.com/c/Codeexpertslearning/videos>
 
-- Hard Coding - por Matheus Dal'Pizzol: <https://www.youtube.com/c/MatheusDalPizzol/videos>
+- Canal Hard Coding - por Matheus Dal'Pizzol: <https://www.youtube.com/c/MatheusDalPizzol/videos>
 
-- DifferDev: <https://www.youtube.com/c/DifferDev/videos>
+- Canal DifferDev: <https://www.youtube.com/c/DifferDev/videos>
 
-- Tio Jobs: <https://www.youtube.com/c/TioJobs/videos>
+- Canal Tio Jobs: <https://www.youtube.com/c/TioJobs/videos>
 
 ## Playlists do Youtube
 As playlists listadas são de conteúdos especificos PHP, de canais que não abordam em sua maioria o PHP.
