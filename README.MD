@@ -108,15 +108,17 @@ Os canais listados são os que tem em sua maioria conteúdos realcionados ao PHP
 
 - Canal Beer and Code: <https://www.youtube.com/c/BeerandCode/featured> 
 
-- Canal Code Easy <https://www.youtube.com/c/CodeEasy/featured>
+- Canal Code Easy: <https://www.youtube.com/c/CodeEasy/featured>
 
-- Canal Rafael Capoani <https://www.youtube.com/c/RafaelCapoani/featured>
+- Canal Rafael Capoani: <https://www.youtube.com/c/RafaelCapoani/featured>
 
-- Canal dias de Dev <https://www.youtube.com/c/DiasdeDev/featured>
+- Canal dias de Dev: <https://www.youtube.com/c/DiasdeDev/featured>
 
-- Canal Code Experts <https://www.youtube.com/c/Codeexpertslearning/featured>
+- Canal Code Experts: <https://www.youtube.com/c/Codeexpertslearning/featured>
 
-- Hard Coding - por Matheus Dal'Pizzol <https://www.youtube.com/c/MatheusDalPizzol/featured>
+- Hard Coding - por Matheus Dal'Pizzol: <https://www.youtube.com/c/MatheusDalPizzol/featured>
+
+- DifferDev: <https://www.youtube.com/c/DifferDev/videos>
 
 
 ## Playlists do Youtube
